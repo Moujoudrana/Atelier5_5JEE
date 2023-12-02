@@ -1,27 +1,24 @@
 # Atelier5
+On souhaite créer une application web basée sur Angular qui permet de gérer les produits. Chaque Produit est défini par son id, name, price, quantity, available. Le backend de l'application est basé sur une REST API basée sur Json-Server
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.1.
+L'application doit permettre de :
+- Afficher les produits
 
-## Development server
+- Chercher les produits
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- Faire la pagination
 
-## Code scaffolding
+- Supprimer un produits
+  
+- Editer un produit
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Mettre à jour un produit
 
-## Build
+- Faire l'authentification et protéger les routes
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+# Ressources:
+ - Part 1 : https://www.youtube.com/watch?v=Bq-vewCZk-o&authuser=0
 
-## Running unit tests
+ - Part 2 : https://www.youtube.com/watch?v=h0zPn2d4fGI&authuser=0
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+ - Part 3 : https://www.youtube.com/watch?v=ZWQtLaRM49o&authuser=0
