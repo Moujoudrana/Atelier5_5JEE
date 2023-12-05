@@ -92,6 +92,9 @@ Déconnection via le bouton logout
 Possibilité de visualiser les produits sans les supprimer ni les modifier
 ![image](https://github.com/Moujoudrana/Atelier5_5JEE/assets/93864104/a31fad10-a05b-4be4-8df8-4f8f6ac7dbd7)
 
+Sans oublier qu'il est aussi possible de chercher des produits selon leurs noms
+![image](https://github.com/Moujoudrana/Atelier5_5JEE/assets/93864104/ff8e6d11-c81e-44fa-ade0-7738de609e1b)
+
 Impossible pour un utilisateur d'ajouter un nouveau produit 
 ![image](https://github.com/Moujoudrana/Atelier5_5JEE/assets/93864104/e04b913d-f633-4e39-8c30-c5f68a2e3950)
 
